@@ -96,3 +96,6 @@ void sendData(float temp, int hum) {
   client.stop();
   Serial.println("Closing connection");
 }
+
+
+//I have had help from the "https://www.electroniclinic.com/google-spreadsheet-or-google-sheets-with-esp8266-nodemcu-for-data-logging/"
